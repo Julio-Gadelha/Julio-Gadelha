@@ -4,7 +4,7 @@
 - 🌱 Atualmente studando: Javascript| React
 - 💬 Sobre mim: Estou a 6 meses na Área.Comecei com incentivo de meus amigos e hoje estou na busca de evoluir.
 - ⚡ Sobre meu GitHUb: Vão ter muitos projetos aqui. De projetos simples e projetos complexos
-
+---
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -57,7 +57,7 @@
 />
 <br/>
 <br/>
-
+---
 ### 📊 Estatísticas
 
 <p>
