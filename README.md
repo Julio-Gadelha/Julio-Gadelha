@@ -60,7 +60,14 @@
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julio-Gadelha&show_icons=true&bg_color=00000000)
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Julio-Gadelha&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 <img 
       align="left" 
       alt="GitHub Stats" 
