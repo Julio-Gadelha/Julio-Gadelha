@@ -5,6 +5,6 @@
 - 💬 Sobre mim: Estou a 6 meses na Área.Comecei com incentivo de meus amigos e hoje estou na busca de evoluir.
 - ⚡ Sobre meu GitHUb: Vão ter muitos projetos aqui. De projetos simples e projetos complexos
 
-  ![Julio-Gadelha GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+
   
