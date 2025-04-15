@@ -6,5 +6,5 @@
 - ⚡ Sobre meu GitHUb: Vão ter muitos projetos aqui. De projetos simples e projetos complexos
 
   ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
   
