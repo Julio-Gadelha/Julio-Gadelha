@@ -60,6 +60,6 @@
 
 ### 📊 Estatísticas
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?Julio-Gadelha&show_icons=true&bg_color=00000000)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?JulioGadelha&show_icons=true&bg_color=00000000)
 
 
