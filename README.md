@@ -1,9 +1,8 @@
 ## Olá! Eu sou o Julio Gabriel👋
-
--Meu Nome e Julio Gabriel tenho 17 anos  sou Desenvolvedor Full Stack e sou de Fortaleza-Ceará
----
-
-###
+🔭 Atualmente: EStou me profissionalizando.Em busca do meu primeiro emprego na área de dev.
+- 🌱 Atualmente studando: Javascript| React|Java
+- 💬 Sobre mim: Estou a 9 meses na Área.Comecei com incentivo de meus amigos e hoje estou na busca de evoluir.
+- ⚡ Sobre meu GitHub: Vão ter muitos projetos aqui. De projetos simples e projetos complexos
 ### 🤖 Linguagens e Tecnologias
 
 <img 
