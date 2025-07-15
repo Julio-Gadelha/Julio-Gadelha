@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Julio Gabriel👋
 
--
+Meu Nome e Julio Gabriel tenho 17 anos  sou Desenvolvedor Full Stack e sou de Fortaleza-Ceará
 ---
 
 ###
