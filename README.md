@@ -1,5 +1,8 @@
 ## HI! I'm Julio Gabriel👋
-🔭 Oi, em meu GitHub você ira ver muitos projetos com HTML|CSS|JavASCRIPT e atualmente estou estudando a linguagem Java um novo marco em minha carreira profissional e espero que gostem dos meus projetos, um abraço.🇧🇷
+👋 -Olá! Sou um desenvolvedor Full Stack apaixonado por tecnologia e aprendizado contínuo. Trabalho com HTML, CSS, JavaScript e React, criando interfaces modernas e funcionais.
+💡 -Atualmente, estou mergulhando no mundo do Java, expandindo meus conhecimentos para o back-end e buscando me tornar cada vez mais completo na área de desenvolvimento.
+📁 -Aqui no meu GitHub, você vai encontrar diversos projetos — alguns simples, outros mais elaborados — todos feitos com dedicação, aprendizado e vontade de evoluir.
+✨ -Espero que gostem dos projetos e que eles possam inspirar, ajudar ou simplesmente mostrar um pouco da minha jornada como desenvolvedor.
 ### 🤖 Linguagens e Tecnologias
 
 <img 
