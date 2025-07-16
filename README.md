@@ -9,6 +9,9 @@
 
 ##
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/8e/cb/20/8ecb204f8b0dbb190f12100d23f35f28.gif" width="400" />
+</p>
 ### 🤖 Linguagens e Tecnologias
 
 <img 
