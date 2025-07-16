@@ -7,6 +7,8 @@
 
 ✨ Espero que gostem dos projetos e que eles possam inspirar, ajudar ou simplesmente mostrar um pouco da minha jornada como desenvolvedor.
 
+##
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
