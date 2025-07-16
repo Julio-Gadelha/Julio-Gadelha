@@ -65,7 +65,7 @@
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
         
           
@@ -92,8 +92,6 @@
 </p>
 <div>
    
-
-<img src="https://raw.githubusercontent.com/JulioGabriel/JulioGabriel/output/snake.svg" alt="Snake animation" />
 
 ###
 
