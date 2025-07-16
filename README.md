@@ -76,9 +76,11 @@
 
 ### 🔥 Follow Me 
 <div
-  <a href="https://www.linkedin.com/in/julio-gabriel-a69646289" target="_blank">
+  <a href="https://www.linkedin.com/in/julio-gabriel-a69646289" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-<\a>
+</a>
+
+
 
   <a href = "juliogabriel78956@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
