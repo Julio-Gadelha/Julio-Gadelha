@@ -1,7 +1,7 @@
 ## HI! I'm Julio Gabriel👋
 👋 Olá! Sou um desenvolvedor Full Stack apaixonado por tecnologia e aprendizado contínuo. Trabalho com HTML,CSS,JavaScript e React, criando interfaces modernas e funcionais.  
 
-💡 Atualmente, estou mergulhando no mundo do Java, expandindo meus conhecimentos para o back-end e buscando me tornar cada vez mais completo na área de desenvolvimento.  
+💡 Atualmente, estou  termindo ensino medio em busca do promeiro estagio além mas tenho desejo de  expandir  meus conhecimentos para o back-end e buscando me tornar cada vez mais completo na área de desenvolvimento.  
 
 📁 Aqui no meu GitHub, você vai encontrar diversos projetos alguns simples, outros mais elaborados todos feitos com dedicação, aprendizado e vontade de evoluir.  
 
