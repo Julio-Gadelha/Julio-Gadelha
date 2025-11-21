@@ -1,6 +1,7 @@
 ## HI! I'm Julio Gabriel👋
 
-<img src="https://raw.githubusercontent.com/Julio-Gadelha/Julio-Gadelha/main/_%20(1).gif" width="300">
+<img src="https://raw.githubusercontent.com/Julio-Gadelha/Julio-Gadelha/main/_%20(1).gif" width="900">
+
 
 
 👋 Olá! Sou um desenvolvedor Full Stack apaixonado por tecnologia e aprendizado contínuo. Trabalho com HTML,CSS,JavaScript e React,Node.js,Banco de Dados criando interfaces modernas e funcionais.  
