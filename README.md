@@ -1,5 +1,4 @@
 ## HI! I'm Julio Gabriel👋
-![Gif de programador](<sandbox:/mnt/data/_ (1>).gif)
 
 👋 Olá! Sou um desenvolvedor Full Stack apaixonado por tecnologia e aprendizado contínuo. Trabalho com HTML,CSS,JavaScript e React,Node.js,Banco de Dados criando interfaces modernas e funcionais.  
 
