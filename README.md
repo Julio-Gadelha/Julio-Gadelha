@@ -1,5 +1,8 @@
 ## HI! I'm Julio Gabriel👋
 
+
+<img src="sandbox:/mnt/data/_ (1).gif" width="600">
+
 👋 Olá! Sou um desenvolvedor Full Stack apaixonado por tecnologia e aprendizado contínuo. Trabalho com HTML,CSS,JavaScript e React,Node.js,Banco de Dados criando interfaces modernas e funcionais.  
 
 💡 Atualmente, estou  termindo ensino medio em busca do promeiro estagio além mas tenho desejo de  expandir  meus conhecimentos para o back-end e buscando me tornar cada vez mais completo na área de desenvolvimento.  
