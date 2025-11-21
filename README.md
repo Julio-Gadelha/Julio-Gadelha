@@ -4,13 +4,15 @@
 
 
 
-👋 Olá! Sou um desenvolvedor Full Stack apaixonado por tecnologia e aprendizado contínuo. Trabalho com HTML,CSS,JavaScript e React,Node.js,Banco de Dados criando interfaces modernas e funcionais.  
+👋 Hello! I'm a Full Stack developer passionate about technology, innovation, and continuous learning. I work with HTML, CSS, JavaScript, React, Node.js, and Databases, creating modern, functional interfaces focused on delivering the best user experience.
+Soon, as I begin my Computer Science degree, I plan to dive deeper into Java, the language I aim to build my career around and eventually specialize in.
 
-💡 Atualmente, estou  termindo ensino medio em busca do promeiro estagio além mas tenho desejo de  expandir  meus conhecimentos para o back-end e buscando me tornar cada vez mais completo na área de desenvolvimento.  
+💡 I am currently finishing high school and looking for my first internship, where I can contribute, learn from experienced professionals, and further expand my knowledge — especially in back-end development, which is the area I identify with the most. I'm always studying, experimenting with new technologies, and evolving as a developer.
 
-📁 Aqui no meu GitHub, você vai encontrar diversos projetos alguns simples, outros mais elaborados todos feitos com dedicação, aprendizado e vontade de evoluir.  
+📁 Here on my GitHub, you'll find a variety of projects: from simple applications built to practice concepts, to more complete solutions that reflect my dedication, effort, and desire to grow in the programming world. Each repository represents a step in my journey.
 
-✨ Espero que gostem dos projetos e que eles possam inspirar, ajudar ou simplesmente mostrar um pouco da minha jornada como desenvolvedor.
+✨ I hope my projects can inspire you, help with your studies, or simply show a bit of my evolution as a developer. I'm just getting started, but I'm determined to build a strong, solid career in the tech field.
+
 
 ##
 
@@ -64,7 +66,31 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+ <img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+          
+ <img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
+ 
+  < img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"   />
+          
         
           
 <br/>
@@ -77,6 +103,10 @@
     
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-gabriel-a69646289/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:juliogabrieldev7@gmail.com)
+
+<button onclick="window.open('https://julio-gadelha.github.io/')">
+  Ver Portfólio
+</button>
 
 
 </div>
