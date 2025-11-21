@@ -104,9 +104,7 @@ Soon, as I begin my Computer Science degree, I plan to dive deeper into Java, th
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-gabriel-a69646289/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:juliogabrieldev7@gmail.com)
 
-<button onclick="window.open('https://julio-gadelha.github.io/')">
-  Ver Portfólio
-</button>
+
 
 
 </div>
