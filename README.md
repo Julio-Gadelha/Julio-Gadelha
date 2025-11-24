@@ -4,14 +4,14 @@
 
 
 
-👋 Hello! I'm a Full Stack developer passionate about technology, innovation, and continuous learning. I work with HTML, CSS, JavaScript, React, Node.js, and Databases, creating modern, functional interfaces focused on delivering the best user experience.
-Soon, as I begin my Computer Science degree, I plan to dive deeper into Java, the language I aim to build my career around and eventually specialize in.
+👋 Olá! Sou um desenvolvedor Full Stack apaixonado por tecnologia, inovação e aprendizado contínuo. Trabalho com HTML, CSS, JavaScript, React, Node.js e Banco de Dados, criando interfaces modernas, funcionais e focadas em oferecer a melhor experiência ao usuário. Em breve, ao iniciar minha graduação em Ciência da Computação, pretendo me aprofundar em Java, a linguagem na qual desejo construir minha carreira e me especializar futuramente.
 
-💡 I am currently finishing high school and looking for my first internship, where I can contribute, learn from experienced professionals, and further expand my knowledge — especially in back-end development, which is the area I identify with the most. I'm always studying, experimenting with new technologies, and evolving as a developer.
+💡 Atualmente estou finalizando o ensino médio e buscando meu primeiro estágio, onde eu possa contribuir, aprender com profissionais experientes e expandir ainda mais meus conhecimentos — especialmente no desenvolvimento back-end, área com a qual mais me identifico. Estou sempre estudando, testando novas tecnologias e evoluindo como desenvolvedor.
 
-📁 Here on my GitHub, you'll find a variety of projects: from simple applications built to practice concepts, to more complete solutions that reflect my dedication, effort, and desire to grow in the programming world. Each repository represents a step in my journey.
+📁 Aqui no meu GitHub, você encontrará uma variedade de projetos: desde aplicações simples criadas para praticar conceitos até soluções mais completas que refletem minha dedicação, esforço e vontade de crescer no mundo da programação. Cada repositório representa um passo da minha jornada.
 
-✨ I hope my projects can inspire you, help with your studies, or simply show a bit of my evolution as a developer. I'm just getting started, but I'm determined to build a strong, solid career in the tech field.
+✨ Espero que meus projetos possam te inspirar, ajudar nos seus estudos ou simplesmente mostrar um pouco da minha evolução como desenvolvedor. Estou apenas começando, mas determinado a construir uma carreira forte e sólida na área de tecnologia.
+
 
 
 ##
