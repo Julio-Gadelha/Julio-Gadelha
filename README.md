@@ -4,7 +4,7 @@
 
 
 
-👋 Olá! Sou um desenvolvedor Full Stack apaixonado por tecnologia, inovação e aprendizado contínuo. Trabalho com HTML, CSS, JavaScript, React, Node.js e Banco de Dados, criando interfaces modernas, funcionais e focadas em oferecer a melhor experiência ao usuário. Em breve, ao iniciar minha graduação em Ciência da Computação, pretendo me aprofundar em Java, a linguagem na qual desejo construir minha carreira e me especializar futuramente.
+👋 Olá! Sou um desenvolvedor Full Stack apaixonado por tecnologia, inovação e aprendizado contínuo. Trabalho com HTML, CSS, JavaScript, React, Node.js , Banco de Dados,  Api restfull, Aws e Spring boot criando interfaces modernas, funcionais e focadas em oferecer a melhor experiência ao usuário. Em breve, ao iniciar minha graduação em Ciência da Computação, pretendo me aprofundar em Java, a linguagem na qual desejo construir minha carreira e me especializar futuramente.
 
 💡 Atualmente estou finalizando o ensino médio e buscando meu primeiro estágio, onde eu possa contribuir, aprender com profissionais experientes e expandir ainda mais meus conhecimentos especialmente no desenvolvimento back-end, área com a qual mais me identifico. Estou sempre estudando, testando novas tecnologias e evoluindo como desenvolvedor.
 
