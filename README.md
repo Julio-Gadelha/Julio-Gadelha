@@ -18,6 +18,7 @@
 
 ### 💻 IDE
 
+
  <img 
   align="left" 
   alt="HTML"
@@ -36,8 +37,9 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
           
+<br/>
+<br/>
           
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
