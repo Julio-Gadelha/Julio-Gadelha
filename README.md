@@ -4,9 +4,9 @@
 
 
 
-👋 Olá! Sou um desenvolvedor Full Stack apaixonado por tecnologia, inovação e aprendizado contínuo. Trabalho com HTML, CSS, JavaScript, React, Node.js , Banco de Dados,  Api restfull, Aws e Spring boot criando interfaces modernas, funcionais e focadas em oferecer a melhor experiência ao usuário. Em breve, ao iniciar minha graduação em Ciência da Computação, pretendo me aprofundar em Java, a linguagem na qual desejo construir minha carreira e me especializar futuramente.
+👋Olá! Sou um Engenheiro de Software em formação e Desenvolvedor Back-end, apaixonado por tecnologia, inovação e aprendizado contínuo. Trabalho com HTML, CSS, JavaScript, React, Node.js, bancos de dados, APIs RESTful, AWS e Spring Boot, desenvolvendo aplicações bem estruturadas, escaláveis e focadas em boas práticas de desenvolvimento.
 
-💡 Atualmente estou finalizando o ensino médio e buscando meu primeiro estágio, onde eu possa contribuir, aprender com profissionais experientes e expandir ainda mais meus conhecimentos especialmente no desenvolvimento back-end, área com a qual mais me identifico. Estou sempre estudando, testando novas tecnologias e evoluindo como desenvolvedor.
+💡 stou sempre estudando, testando novas tecnologias e buscando entender o porquê das coisas, não apenas como elas funcionam. Tenho grande interesse em back-end, arquitetura de software e boas práticas, e encaro cada desafio como uma oportunidade real de evolução técnica e profissional.
 
 📁 Aqui no meu GitHub, você encontrará uma variedade de projetos: desde aplicações simples criadas para praticar conceitos até soluções mais completas que refletem minha dedicação, esforço e vontade de crescer no mundo da programação. Cada repositório representa um passo da minha jornada.
 
