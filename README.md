@@ -6,7 +6,7 @@
 
 👋Olá! Sou um Engenheiro de Software em formação e Desenvolvedor Back-end, apaixonado por tecnologia, inovação e aprendizado contínuo. Trabalho Java,JavaScript, , bancos de dados, APIs RESTful, AWS e Spring Boot, desenvolvendo aplicações bem estruturadas, escaláveis e focadas em boas práticas de desenvolvimento.
 
-💡 stou sempre estudando, testando novas tecnologias e buscando entender o porquê das coisas, não apenas como elas funcionam. Tenho grande interesse em back-end, arquitetura de software e boas práticas, e encaro cada desafio como uma oportunidade real de evolução técnica e profissional.
+💡 Estou sempre estudando, testando novas tecnologias e buscando entender o porquê das coisas, não apenas como elas funcionam. Tenho grande interesse em back-end, arquitetura de software e boas práticas, e encaro cada desafio como uma oportunidade real de evolução técnica e profissional.
 
 📁 Aqui no meu GitHub, você encontrará uma variedade de projetos: desde aplicações simples criadas para praticar conceitos até soluções mais completas que refletem minha dedicação, esforço e vontade de crescer no mundo da programação. Cada repositório representa um passo da minha jornada.
 
