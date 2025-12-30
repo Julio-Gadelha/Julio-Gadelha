@@ -4,14 +4,13 @@
 
 
 
-👋Olá! Sou um Engenheiro de Software em formação e Desenvolvedor Back-end, apaixonado por tecnologia, inovação e aprendizado contínuo. Trabalho Java,JavaScript, , bancos de dados, APIs RESTful, AWS e Spring Boot, desenvolvendo aplicações bem estruturadas, escaláveis e focadas em boas práticas de desenvolvimento.
+👋 Hello! I am a Software Engineering student and Back-End Developer, passionate about technology, innovation, and continuous learning. I work with Java, JavaScript, databases, RESTful APIs, AWS, and Spring Boot, developing well-structured, scalable applications focused on best development practices..
 
-💡 Estou sempre estudando, testando novas tecnologias e buscando entender o porquê das coisas, não apenas como elas funcionam. Tenho grande interesse em back-end, arquitetura de software e boas práticas, e encaro cada desafio como uma oportunidade real de evolução técnica e profissional.
+💡 I am always studying, testing new technologies, and seeking to understand the why behind things, not just how they work. I have a strong interest in back-end development, software architecture, and best practices, and I see every challenge as a real opportunity for technical and professional growth.
 
-📁 Aqui no meu GitHub, você encontrará uma variedade de projetos: desde aplicações simples criadas para praticar conceitos até soluções mais completas que refletem minha dedicação, esforço e vontade de crescer no mundo da programação. Cada repositório representa um passo da minha jornada.
+📁 Here on my GitHub, you will find a variety of projects: from simple applications created to practice concepts to more complete solutions that reflect my dedication, effort, and desire to grow in the programming world. Each repository represents a step in my journey.
 
-✨ Espero que meus projetos possam te inspirar, ajudar nos seus estudos ou simplesmente mostrar um pouco da minha evolução como desenvolvedor. Estou apenas começando, mas determinado a construir uma carreira forte e sólida na área de tecnologia.
-
+✨ I hope my projects can inspire you, help with your studies, or simply show a bit of my evolution as a developer. I am just getting started, but I am determined to build a strong and solid career in the technology field.
 
 
 ##
