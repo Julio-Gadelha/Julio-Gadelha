@@ -15,6 +15,7 @@
 
 ##
 
+
 ### 💻 IDE
 
 
@@ -37,6 +38,8 @@
 />
           
 <br/>
+<br/>
+
 
           
 ### 🤖 Languages and Technologies
@@ -70,6 +73,8 @@
     
    
    <br/>
+   <br/>
+   
 
    ### 🗄️ Databases
    
@@ -133,6 +138,7 @@
         
           
 <br/>
+<br/>
 
 
 ### ☁️​ Cloud 
@@ -146,6 +152,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
     />
     
+<br/>
 <br/>
 
 
