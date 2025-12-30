@@ -39,7 +39,7 @@
 <br/>
 
           
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -131,7 +131,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
     
           
-    
+  ### ⚙️​ Frameworks
           
         
           
