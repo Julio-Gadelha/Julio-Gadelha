@@ -2,6 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/Julio-Gadelha/Julio-Gadelha/main/_%20(1).gif" width="800">
 
+##
+
+### About me 
 
 
 👋 Hello! I am a Software Engineering student and Back-End Developer, passionate about technology, innovation, and continuous learning. I work with Java, JavaScript, databases, RESTful APIs, AWS, and Spring Boot, developing well-structured, scalable applications focused on best development practices..
