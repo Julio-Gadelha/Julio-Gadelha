@@ -7,7 +7,7 @@
 ### About me 
 
 
-👋 Hello! I am a Software Engineering student and Back-End Developer, passionate about technology, innovation, and continuous learning. I work with Java, JavaScript, databases, RESTful APIs, AWS, and Spring Boot, developing well-structured, scalable applications focused on best development practices..
+👋 Hello! I am a Software Engineering student and Back-End Developer, passionate about technology, innovation, and continuous learning. I work with Java, JavaScript, databases, RESTful APIs, AWS, and Spring Boot, developing well-structured, scalable applications focused on best development practices.
 
 💡 I am always studying, testing new technologies, and seeking to understand the why behind things, not just how they work. I have a strong interest in back-end development, software architecture, and best practices, and I see every challenge as a real opportunity for technical and professional growth.
 
