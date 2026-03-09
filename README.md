@@ -1,4 +1,4 @@
-## HI! I'm Julio Gabriel👋
+## HI! I'm Julio Gabriel🤝
 
 <img src="https://raw.githubusercontent.com/Julio-Gadelha/Julio-Gadelha/main/_%20(1).gif" width="800">
 
