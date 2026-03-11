@@ -7,13 +7,11 @@
 ### About me 
 
 
-👋 Hello! I am a Software Engineering student and Back-End Developer, passionate about technology, innovation, and continuous learning. I work with Java, JavaScript, databases, RESTful APIs, AWS, and Spring Boot, developing well-structured, scalable applications focused on best development practices.
+👋 Olá eu sou  desenvolvedor Back-End em formação, apaixonado por tecnologia e desenvolvimento de software. Tenho foco em Java, Spring Boot, JavaScript, bancos de dados e APIs RESTful, sempre aplicando boas práticas e buscando criar aplicações escaláveis e bem estruturadas.
 
-💡 I am always studying, testing new technologies, and seeking to understand the why behind things, not just how they work. I have a strong interest in back-end development, software architecture, and best practices, and I see every challenge as a real opportunity for technical and professional growth.
+📁 Aqui no meu GitHub você encontrará diversos projetos, desde aplicações criadas para praticar conceitos fundamentais até projetos mais completos que demonstram minha evolução e dedicação na área de desenvolvimento de software. Cada repositório representa um passo na minha jornada como desenvolvedor
 
-📁 Here on my GitHub, you will find a variety of projects: from simple applications created to practice concepts to more complete solutions that reflect my dedication, effort, and desire to grow in the programming world. Each repository represents a step in my journey.
-
-✨ I hope my projects can inspire you, help with your studies, or simply show a bit of my evolution as a developer. I am just getting started, but I am determined to build a strong and solid career in the technology field.
+🌱 “Grandes desenvolvedores não nascem prontos, eles são construídos linha por linha de código".
 
 
 ##
