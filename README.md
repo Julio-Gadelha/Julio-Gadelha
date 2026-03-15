@@ -9,7 +9,7 @@
 
 👋 Olá eu sou  desenvolvedor Back-End em formação, apaixonado por tecnologia e desenvolvimento de software. Tenho foco em Java, Spring Boot, JavaScript, bancos de dados e APIs RESTful, sempre aplicando boas práticas e buscando criar aplicações escaláveis e bem estruturadas.
 
-📁 Aqui no meu GitHub você encontrará diversos projetos, desde aplicações criadas para praticar conceitos fundamentais até projetos mais completos que demonstram minha evolução e dedicação na área de desenvolvimento de software. Cada repositório representa um passo na minha jornada como desenvolvedor
+📁 Aqui no meu GitHub você encontrará diversos projetos, desde aplicações criadas para praticar conceitos fundamentais até projetos mais completos que demonstram minha evolução e dedicação na área de desenvolvimento de software. Cada repositório representa um passo na minha jornada como desenvolvedor.
 
 🌱 “Grandes desenvolvedores não nascem prontos, eles são construídos linha por linha de código".
 
