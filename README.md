@@ -7,7 +7,7 @@
 ### Sobre mim 
 
 
-👋 Olá eu sou  desenvolvedor Back-End em formação, apaixonado por tecnologia e desenvolvimento Back-End. Tenho foco em Java, Spring Boot, JavaScript,C++, bancos de dados e APIs RESTful, sempre aplicando boas práticas e buscando criar aplicações escaláveis e bem estruturadas.
+👋 Olá eu sou  desenvolvedor Back-End em formação, apaixonado por tecnologia e desenvolvimento Back-End. Tenho foco em Java, Spring Boot, JavaScript,C, bancos de dados e APIs RESTful, sempre aplicando boas práticas e buscando criar aplicações escaláveis e bem estruturadas.
 
 📁 Aqui no meu GitHub você encontrará diversos projetos, desde aplicações criadas para praticar conceitos fundamentais até projetos mais completos que demonstram minha evolução e dedicação na área de desenvolvimento de software. Cada repositório representa um passo na minha jornada como desenvolvedor Back-End.
 
@@ -57,8 +57,8 @@
 
   <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
@@ -66,8 +66,8 @@
 
    <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Sql" 
+    title="Sql"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
@@ -75,11 +75,11 @@
 
    <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="c" 
+    title="c"
     width="30px" 
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+    src=" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
     />
     
    
