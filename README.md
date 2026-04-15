@@ -1,4 +1,4 @@
-## HI! I'm Julio Gabriel🤝
+## HI! I'm Julio Gabriel💻
 
 <img src="https://raw.githubusercontent.com/Julio-Gadelha/Julio-Gadelha/main/_%20(1).gif" width="800">
 
@@ -11,7 +11,7 @@
 
 📁 Aqui no meu GitHub você encontrará diversos projetos, desde aplicações criadas para praticar conceitos fundamentais até projetos mais completos que demonstram minha evolução e dedicação na área de desenvolvimento de software. Cada repositório representa um passo na minha jornada como desenvolvedor Back-End.
 
-🌱 “Grandes desenvolvedores não nascem prontos, eles são construídos linha por linha de código".
+🌱 “Grandes desenvolvedores não nascem prontos, eles são construídos linha por linha de código ".
 
 
 ##
