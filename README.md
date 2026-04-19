@@ -44,7 +44,7 @@
 
 
           
-### 🤖 Languages and Technologies
+### 🤖 Linguagens & Tecnologia
 
 <img 
     align="left" 
