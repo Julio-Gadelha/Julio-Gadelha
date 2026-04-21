@@ -44,7 +44,7 @@
 
 
           
-### 🤖 Linguagens & Tecnologia
+### 🤖 Linguagens & Tecnologias
 
 <img 
     align="left" 
@@ -87,7 +87,7 @@
    <br/>
    
 
-   ### 🗄️ Databases
+   ### 🗄️ Banco de dados 
    
    <img 
     align="left" 
