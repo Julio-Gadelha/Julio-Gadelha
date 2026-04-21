@@ -153,7 +153,7 @@
 <br/>
 
 
-### ☁️​ Cloud 
+### ☁️​ Nuvem
 
  <img 
     align="left" 
