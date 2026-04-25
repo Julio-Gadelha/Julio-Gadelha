@@ -7,7 +7,7 @@
 ### Sobre mim 
 
 
-👋 Olá eu sou  desenvolvedor Back-End em formação, apaixonado por tecnologia e desenvolvimento Back-End. Tenho foco em Java, Spring Boot, JavaScript,C, SQL e APIs RESTful, sempre aplicando boas práticas e buscando criar aplicações escaláveis e bem estruturadas.
+👋 Olá eu sou  desenvolvedor Back-End em formação, apaixonado por tecnologia e desenvolvimento Back-End. Tenho foco em Java, Spring Boot, JavaScript, SQL e APIs RESTful, sempre aplicando boas práticas e buscando criar aplicações escaláveis e bem estruturadas.
 
 📁 Aqui no meu GitHub você encontrará diversos projetos, desde aplicações criadas para praticar conceitos fundamentais até projetos mais completos que demonstram minha evolução e dedicação na área de desenvolvimento de software. Cada repositório representa um passo na minha jornada como desenvolvedor Back-End.
 
