@@ -44,7 +44,7 @@
 
 
           
-### 🤖 Linguagens & Tecnologias
+### 🤖  Languagens & Technologies
 
 <img 
     align="left" 
@@ -87,7 +87,7 @@
    <br/>
    
 
-   ### 🗄️ Banco de dados 
+   ### 🗄️ Databases 
    
    <img 
     align="left" 
@@ -153,7 +153,7 @@
 <br/>
 
 
-### ☁️​ Nuvem
+### ☁️​ Cloud
 
  <img 
     align="left" 
@@ -170,7 +170,7 @@
 
 ##
 
-### 🔥 Redes Sociais
+### 🔥 Network 
 <div
     
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-gabriel-a69646289/)
@@ -181,7 +181,7 @@
 
 </div>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
