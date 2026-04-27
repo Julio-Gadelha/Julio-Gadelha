@@ -7,11 +7,11 @@
 ### About me 
 
 
-👋 Olá eu sou  desenvolvedor Back-End em formação, apaixonado por tecnologia e desenvolvimento Back-End. Tenho foco em Java, Spring Boot, JavaScript, SQL e APIs RESTful, sempre aplicando boas práticas e buscando criar aplicações escaláveis e bem estruturadas.
+👋 Hello! I am a Back-End developer in training, passionate about technology and backend development. I focus on Java, Spring Boot, JavaScript, SQL, and RESTful APIs, always applying best programming practices and striving to build scalable, organized, and well-structured applications.
 
-📁 Aqui no meu GitHub você encontrará diversos projetos, desde aplicações criadas para praticar conceitos fundamentais até projetos mais completos que demonstram minha evolução e dedicação na área de desenvolvimento de software. Cada repositório representa um passo na minha jornada como desenvolvedor Back-End.
+📁Here on my GitHub, you will find several projects, ranging from applications created to practice fundamental concepts to more complete projects that demonstrate my growth and dedication in the software development field. Each repository represents a step in my journey as a Back-End developer.
 
-🌱 “Grandes desenvolvedores não nascem prontos, eles são construídos linha por linha de código ".
+🌱 “Great developers are not born ready; they are built line by line of code".
 
 
 ##
