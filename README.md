@@ -4,7 +4,7 @@
 
 ##
 
-### Sobre mim 
+### About me 
 
 
 👋 Olá eu sou  desenvolvedor Back-End em formação, apaixonado por tecnologia e desenvolvimento Back-End. Tenho foco em Java, Spring Boot, JavaScript, SQL e APIs RESTful, sempre aplicando boas práticas e buscando criar aplicações escaláveis e bem estruturadas.
