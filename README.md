@@ -6,7 +6,6 @@
 
 ### About me 
 
-
 👋 Hello! I am a Back-End developer in training, passionate about technology and backend development. I focus on Java, Spring Boot, JavaScript, SQL, and RESTful APIs, always applying best programming practices and striving to build scalable, organized, and well-structured applications.
 
 📁Here on my GitHub, you will find several projects, ranging from applications created to practice fundamental concepts to more complete projects that demonstrate my growth and dedication in the software development field. Each repository represents a step in my journey as a Back-End developer.
