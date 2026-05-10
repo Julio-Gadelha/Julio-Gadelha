@@ -1,6 +1,6 @@
 ## HI! I'm Julio Gabriel💻
 
-<img src="https://raw.githubusercontent.com/Julio-Gadelha/Julio-Gadelha/main/_%20(1).gif" width="800">
+<img src="https://raw.githubusercontent.com/Julio-Gadelha/Julio-Gadelha/main/_%20(1).gif" Heigth = "500" width="800">
 
 ##
 
