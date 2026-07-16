@@ -5,7 +5,6 @@
 
 <img src="https://raw.githubusercontent.com/Julio-Gadelha/Julio-Gadelha/main/banner.svg" width="800">
 
-
 ##
 
 ### About me 
