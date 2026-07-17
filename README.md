@@ -1,5 +1,23 @@
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+%F0%9F%91%8B;Desenvolvedor+Back-End+em+forma%C3%A7%C3%A3o;Java+%7C+Spring+Boot+%7C+SQL" alt="Typing SVG" />
+<p align="center">
+  <a href="https://github.com/Julio-Gadelha">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Julio Gabriel" /></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1%2C+eu+sou+o+Julio+Gabriel%20%F0%9F%91%8B;Desenvolvedor+Back-End+em+forma%C3%A7%C3%A3o;Java+%7C+Spring+Boot+%7C+SQL&font=Fira%20Code&center=true&width=440&height=45&color=00FF7F&vCenter=true&pause=1000&size=22" />
+</p>
+
+
+<p align="center">
+  <a href="https://www.youtube.com/@juliogabriel2438"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/buildwithvosky/"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="LINK_DO_SEU_LINKEDIN_AQUI"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+</p>
+
+<br/>
  
 ##
 
@@ -75,9 +93,8 @@
     
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-gabriel-a69646289/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:juliogabrieldev7@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](ht
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC2dQoKOx8S3o2fnyUwxiaYg?style=for-the-badge&logo=youtube&color=red)](https://www.youtube.com/@juliogabriel2438)
-tps://www.instagram.com/buildwithvosky/)
 ![Visitor Count](https://komarev.com/ghpvc/?username=Julio-Gadelha&style=for-the-badge&color=red&label=VISITANTES)
 
 </div>
