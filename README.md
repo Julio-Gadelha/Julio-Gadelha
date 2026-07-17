@@ -1,5 +1,7 @@
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1%2C+eu+sou+o+Julio+Gabriel%20%F0%9F%91%8B;Desenvolvedor+Back-End+em+forma%C3%A7%C3%A3o;Java+%7C+Spring+Boot+%7C+SQL&font=Fira%20Code&center=true&width=600&height=45&color=00FF7F&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1%2C+eu+sou+o+Julio+Gabriel%20%F0%9F%91%8B;Desenvolvedor+Back-End+em+forma%C3%A7%C3%A3o;Java+%7C+Spring+Boot+%7C+SQL&font=Fira%20Code&center=true&width=750&height=45&color=FF0000&vCenter=true&pause=1000&size=20" />
 </p>
 
 <p align="center">
