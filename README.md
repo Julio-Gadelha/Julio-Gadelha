@@ -11,7 +11,7 @@
 
 ##
 
-### About me 
+### Sobre mim 
 
 👋 Hello! I am a Back-End developer in training, passionate about technology and backend development. I focus on Java, Spring Boot, JavaScript, SQL, and RESTful APIs, always applying best programming practices and striving to build scalable, organized, and well-structured applications.
 
@@ -50,7 +50,8 @@
 
 
           
-### 🤖  Languagens & Technologies
+### 🤖  Linguagens & Tecnologias
+
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -59,42 +60,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
 
-  <img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-   />
 
-   <img 
-    align="left" 
-    alt="Sql" 
-    title="Sql"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-    />
-
-   <img 
-    align="left" 
-    alt="c" 
-    title="c"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-    />
-    
    
    <br/>
    <br/>
