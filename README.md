@@ -1,23 +1,21 @@
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+%F0%9F%91%8B;Desenvolvedor+Back-End+em+forma%C3%A7%C3%A3o;Java+%7C+Spring+Boot+%7C+SQL" alt="Typing SVG" />
  
-  <img src="https://readme-typing-svg.demolab.com?       font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+%F0%9F%91%8B;Desenvolvedor+Back-End+em+forma%C3%A7%C3%A3o;Java+%7C+Spring+Boot+%7C+SQL" alt="Typing SVG" />
-  </div>
-
 <br>
 <br>
 
-
-
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC2dQoKOx8S3o2fnyUwxiaYg?style=for-the-badge&logo=youtube&color=red)](https://www.youtube.com/@juliogabriel2438) 
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC2dQoKOx8S3o2fnyUwxiaYg?style=for-the-badge&logo=youtube&color=red)](https://www.youtube.com/@juliogabriel2438)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/buildwithvosky/)
 ![Visitor Count](https://komarev.com/ghpvc/?username=Julio-Gadelha&style=for-the-badge&color=red&label=VISITANTES)
 
 ##
 
 <h2>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  Sobre mim
+  Sobre mim 
+ <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"/>
 
@@ -26,8 +24,6 @@
 📁 Aqui no meu GitHub, você vai encontrar diversos projetos, desde aplicações criadas para praticar conceitos fundamentais até projetos mais completos que demonstram meu crescimento e dedicação na área de desenvolvimento de software. Cada repositório representa um passo na minha jornada como desenvolvedor Back-End.
 
 🌱 "Grandes desenvolvedores não nascem prontos; eles são construídos linha de código por linha de código."
-
-
 
 
 ##
