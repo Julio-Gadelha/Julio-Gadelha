@@ -15,11 +15,11 @@
 
 ### Sobre mim 
 
-👋 Hello! I am a Back-End developer in training, passionate about technology and backend development. I focus on Java, Spring Boot, JavaScript, SQL, and RESTful APIs, always applying best programming practices and striving to build scalable, organized, and well-structured applications.
+👋 Olá! Sou um desenvolvedor Back-End em formação, apaixonado por tecnologia e desenvolvimento back-end. Foco em Java, Spring Boot, JavaScript, SQL e APIs RESTful, sempre aplicando as melhores práticas de programação e buscando construir aplicações escaláveis, organizadas e bem estruturadas.
 
-📁Here on my GitHub, you will find several projects, ranging from applications created to practice fundamental concepts to more complete projects that demonstrate my growth and dedication in the software development field. Each repository represents a step in my journey as a Back-End developer.
+📁 Aqui no meu GitHub, você vai encontrar diversos projetos, desde aplicações criadas para praticar conceitos fundamentais até projetos mais completos que demonstram meu crescimento e dedicação na área de desenvolvimento de software. Cada repositório representa um passo na minha jornada como desenvolvedor Back-End.
 
-🌱 “Great developers are not born ready; they are built line by line of code".
+🌱 "Grandes desenvolvedores não nascem prontos; eles são construídos linha de código por linha de código."
 
 
 ##
@@ -30,13 +30,9 @@
 
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-          
+ 
 <br/>
-<br/>
-
-
-          
+   
 ### 🤖  Linguagens & Tecnologias
 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -47,13 +43,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-
-
-   
-   <br/>
    <br/>
    
-
    ### 🗄️ Banco de dados
  
   ![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -66,16 +57,13 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-        
-          
-<br/>
+         
 <br/>
 
 
 ### ☁️​ Cloud
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
  
-
 <br/>
 
 
