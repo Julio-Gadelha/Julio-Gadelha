@@ -87,7 +87,7 @@
 
 ## 
 
-### 📊 Statistics
+### 📊 Estatísticas
 
 <p>
   <img 
