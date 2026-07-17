@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+%F0%9F%91%8B;Desenvolvedor+Back-End+em+forma%C3%A7%C3%A3o;Java+%7C+Spring+Boot+%7C+SQL" alt="Typing SVG" />
 </div>
 
-<img src="https://raw.githubusercontent.com/Julio-Gadelha/Julio-Gadelha/main/banner.svg" width="800">
+<li><a href="https://github.com/swyxio/swyxio/issues/66">GoLang</a>: <img src=https://avatars.githubusercontent.com/u/66071876?u=8bf4b1aea9ad744a834adfbcbc62cb134f9e4dfa&v=4&s=20 height=20 /></li>
 
 ##
 
