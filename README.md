@@ -4,6 +4,8 @@
 </div>
 
 
+
+
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC2dQoKOx8S3o2fnyUwxiaYg?style=for-the-badge&logo=youtube&color=red)](https://www.youtube.com/@juliogabriel2438) 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Julio-Gadelha&style=for-the-badge&color=red&label=VISITANTES)
 
@@ -49,6 +51,13 @@
 
           
 ### 🤖  Languagens & Technologies
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 <img 
     align="left" 
