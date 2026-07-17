@@ -9,7 +9,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/buildwithvosky/"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
- <a href="https://www.linkedin.com/in/julio-gabriel-a69646289/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/></a>
+  <a href="https://www.linkedin.com/in/julio-gabriel-a69646289/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:juliogabrieldev7@gmail.com"><img width="32px" alt="Email" title="Email" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>
 </p>
 
