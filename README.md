@@ -5,7 +5,7 @@
 
 
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC2dQoKOx8S3o2fnyUwxiaYg?style=for-the-badge&logo=youtube&color=red)](https://www.youtube.com/@juliogabriel2438) 
-![Visitor Count](https://profile-counter.glitch.me/Julio-Gadelha/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=Julio-Gadelha&color=00b4d8&style=flat)
 
 ##
 
