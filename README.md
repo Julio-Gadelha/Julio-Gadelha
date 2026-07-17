@@ -88,11 +88,13 @@
     
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-gabriel-a69646289/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:juliogabrieldev7@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC2dQoKOx8S3o2fnyUwxiaYg?style=for-the-badge&logo=youtube&color=red)](https://www.youtube.com/@juliogabriel2438)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC2dQoKOx8S3o2fnyUwxiaYg?style=for-the-badge&logo=youtube&color=red)(https://www.youtube.com/@juliogabriel2438)
 ![Visitor Count](https://komarev.com/ghpvc/?username=Julio-Gadelha&style=for-the-badge&color=red&label=VISITANTES)
 
 </div>
+
+## 
 
 ### 📊 Statistics
 
