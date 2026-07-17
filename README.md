@@ -1,13 +1,10 @@
-
 <p align="center">
-  <a href="https://github.com/Julio-Gadelha">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Julio Gabriel" /></a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Julio+Gabriel&font=Fira+Code&center=true&width=440&height=60&color=00FF7F&vCenter=true&size=35" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1%2C+eu+sou+o+Julio+Gabriel%20%F0%9F%91%8B;Desenvolvedor+Back-End+em+forma%C3%A7%C3%A3o;Java+%7C+Spring+Boot+%7C+SQL&font=Fira%20Code&center=true&width=440&height=45&color=00FF7F&vCenter=true&pause=1000&size=22" />
 </p>
-
 
 <p align="center">
   <a href="https://www.youtube.com/@juliogabriel2438"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
@@ -16,17 +13,15 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="LINK_DO_SEU_LINKEDIN_AQUI"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
 </p>
-
 <br/>
- 
-##
-
 
 <h3>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   Sobre mim 
   <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </h3>
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"/>
 
 👋 Olá! Sou um desenvolvedor Back-End em formação, apaixonado por tecnologia e desenvolvimento back-end. Foco em Java, Spring Boot, JavaScript, SQL e APIs RESTful, sempre aplicando as melhores práticas de programação e buscando construir aplicações escaláveis, organizadas e bem estruturadas.
 
