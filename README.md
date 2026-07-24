@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@juliogabriel2438"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href=https://www.youtube.com/@VoskyTheOne><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/buildwithvosky/"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
