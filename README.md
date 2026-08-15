@@ -29,7 +29,7 @@
 
 
 
-👋 Olá! Sou um desenvolvedor Back-End em formação, apaixonado por tecnologia e desenvolvimento back-end. Foco em Java,python, Spring Boot, JavaScript e  SQL  sempre aplicando as melhores práticas de programação e buscando construir aplicações escaláveis, organizadas e bem estruturadas.
+👋 Olá! Sou um desenvolvedor Back-End em formação, apaixonado por tecnologia e desenvolvimento back-end. Foco em Java, Spring Boot, JavaScript e  SQL  sempre aplicando as melhores práticas de programação e buscando construir aplicações escaláveis, organizadas e bem estruturadas.
 
 📁 Aqui no meu GitHub, você vai encontrar diversos projetos, desde aplicações criadas para praticar conceitos fundamentais até projetos mais completos que demonstram meu crescimento e dedicação na área de desenvolvimento de software. Cada repositório representa um passo na minha jornada como desenvolvedor Back-End.
 
@@ -52,7 +52,6 @@
 ### 🤖  Linguagens & Tecnologias
 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
