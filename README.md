@@ -14,9 +14,7 @@
   <a href="mailto:juliogabrieldev7@gmail.com"><img width="32px" alt="Email" title="Email" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Julio-Gadelha&style=for-the-badge&color=red&label=VISITANTES" alt="Visitor Count"/>
-</p>
+
 
 ##
 
