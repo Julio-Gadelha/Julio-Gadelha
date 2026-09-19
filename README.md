@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1%2C+eu+sou+o+Julio+Gabriel%20%F0%9F%91%8B;Desenvolvedor+Back-End+em+forma%C3%A7%C3%A3o;Java+%7C+SQL+%7C+Javascript&font=Fira%20Code&center=true&width=750&height=45&color=FF0000&vCenter=true&pause=1000&size=20" />
 </p>
 
+
 <p align="center">
   <a href=https://www.youtube.com/@VoskyTheOne><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -13,7 +14,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:juliogabrieldev7@gmail.com"><img width="32px" alt="Email" title="Email" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>
 </p>
-
 
 
 ##
@@ -56,10 +56,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-   
-   ##
+##
   
-   ### 🗄️ Banco de dados
+### 🗄️ Banco de dados
  
   ![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   
@@ -67,7 +66,7 @@
 
 ##
    
-  ### ⚙️​ Frameworks
+### ⚙️​ Frameworks
   
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
