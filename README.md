@@ -12,17 +12,14 @@
 
 <br/>
 
-<h2 align="center">⚡ Sobre mim</h2>
 
-<p align="center">
-  Desenvolvedor Back-End em formação, apaixonado por tecnologia.<br/>
-  Foco em <b>Java</b>, <b>JavaScript</b> e <b>SQL</b>, sempre aplicando boas práticas<br/>
-  e buscando construir aplicações escaláveis, organizadas e bem estruturadas.
-</p>
+<h3>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  ⚡  sobre mim 
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"/>
+  <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+</h3>
 
-<p align="center">
-  <i>"Grandes desenvolvedores não nascem prontos; eles são construídos linha de código por linha de código."</i>
-</p>
 
 <br/>
 
