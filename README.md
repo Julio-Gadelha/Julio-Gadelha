@@ -1,17 +1,14 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1%2C+eu+sou+o+Julio+Gabriel+%F0%9F%91%8B;Desenvolvedor+Back-End;Java+%7C+SQL+%7C+JavaScript+%7C+React;APIs+REST&font=Fira+Code&center=true&width=750&height=45&color=%23A9C46A&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1%2C+eu+sou+o+Julio+Gabriel+%F0%9F%91%8B;Desenvolvedor+Back-End;Java+%7C+Spring+Boot+%7C+SQL+%7C+JavaScript+%7C+React;Em+busca+do+primeiro+est%C3%A1gio&font=Fira+Code&center=true&width=750&height=45&color=%23A9C46A&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
 </p>
 
 
 <p align="center">
-  <a href=https://www.youtube.com/@VoskyTheOne><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/buildwithvosky/"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/juliogabrieldev14/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:juliogabrieldev7@gmail.com"><img width="32px" alt="Email" title="Email" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://julio-gadelha.github.io/Portifolio-JulioGabriel/"><img width="32px" alt="Portfólio" title="Portfólio" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png"/></a>
 </p>
 
 
@@ -25,13 +22,29 @@
 </h3>
 
 
-👋 Olá! Sou estudante de Ciência da Computação e Desenvolvedor Back-End em formação, com foco em Java. Tenho interesse em tecnologia e no desenvolvimento de soluções eficientes, buscando constantemente aprimorar meus conhecimentos e aplicar boas práticas de programação.
+👋 Olá! Sou estudante de Ciência da Computação e Desenvolvedor Back-End em formação, com foco em Java. Estou em busca da minha primeira oportunidade de estágio, onde possa aplicar o que já construí e evoluir junto a uma equipe.
 
-💻 Atualmente, estou aprofundando meus conhecimentos em Java, Programação Orientada a Objetos (POO), SQL e desenvolvimento de API , além de explorar tecnologias como JavaFX e Spring Boot.
+💻 Atualmente, estou aprofundando meus conhecimentos em Java, Programação Orientada a Objetos (POO), SQL e desenvolvimento de APIs, além de estudar Spring Boot e explorar o JavaFX para aplicações desktop.
 
 📁 Aqui no meu GitHub, compartilho projetos desenvolvidos durante minha jornada de aprendizado, desde exercícios práticos até aplicações mais completas, que demonstram minha evolução, dedicação e interesse pelo desenvolvimento de software.
 
-🌱 Acredito que a evolução na programação acontece todos os dias, com aprendizado contínuo, prática e dedicação. Cada linha de código é uma oportunidade de melhorar."
+🌱 Acredito que a evolução na programação acontece todos os dias, com aprendizado contínuo, prática e dedicação. Cada linha de código é uma oportunidade de melhorar.
+
+##
+
+### 🚀 Projetos em destaque
+
+**💰 FinTrack**
+Aplicação desktop em Java com interface gráfica em JavaFX e persistência de dados em SQLite, estruturada com Programação Orientada a Objetos.
+`Java` `JavaFX` `SQLite` `POO` · [Ver no portfólio](https://julio-gadelha.github.io/Portifolio-JulioGabriel/)
+
+**📚 Sistema de Gerenciamento de Biblioteca**
+Sistema em Java para controle de acervo, com cadastro de livros físicos e digitais, consulta de disponibilidade e menu interativo via terminal. Usa hierarquia de classes e interfaces para funcionalidades específicas por tipo de livro.
+`Java` `POO` · [Ver repositório](https://github.com/Julio-Gadelha/SistemaDeGerenciamentoDeBiblioteca)
+
+**🛒 Sistema de Caixa para Supermercado**
+Sistema para cadastro de produtos com cálculo automático de imposto por categoria, incluindo tratamento de exceções para validação dos dados de entrada.
+`Java` `POO` · [Ver repositório](https://github.com/Julio-Gadelha/SistemaCaixaSupermercado)
 
 ##
 
@@ -39,12 +52,12 @@
 
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
- 
+
 <br/>
 
 ##
-   
-### 🤖  Linguagens & Tecnologias
+
+### 🤖 Linguagens & Tecnologias
 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -54,27 +67,37 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ##
-  
+
 ### 🗄️ Banco de dados
- 
-  ![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 <br/>
 
 ##
-   
-### ⚙️ Frameworks
-  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-         
+### ⚙️ Frameworks
+
+![JavaFX](https://img.shields.io/badge/-JavaFX-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot%20(aprendendo)-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 <br/>
 
-## 
+##
+
+### 🛠️ Ferramentas
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<br/>
+
+##
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Julio-Gadelha/Julio-Gadelha/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Julio-Gadelha/Julio-Gadelha/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Julio-Gadelha/Julio-Gadelha/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Julio-Gadelha/Julio-Gadelha/output/github-contribution-grid-snake.svg">
 </picture>
