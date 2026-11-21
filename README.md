@@ -25,12 +25,13 @@
 </h3>
 
 
+👋 Olá! Sou estudante de Ciência da Computação e Desenvolvedor Back-End em formação, com foco em Java. Tenho interesse em tecnologia e no desenvolvimento de soluções eficientes, buscando constantemente aprimorar meus conhecimentos e aplicar boas práticas de programação.
 
-👋 Olá! Sou um desenvolvedor Back-End em formação, apaixonado por tecnologia e desenvolvimento back-end. Foco em Java,  JavaScript e  SQL  sempre aplicando as melhores práticas de programação e buscando construir aplicações escaláveis, organizadas e bem estruturadas.
+💻 Atualmente, estou aprofundando meus conhecimentos em Java, Programação Orientada a Objetos (POO), SQL e desenvolvimento de API , além de explorar tecnologias como JavaFX e Spring Boot.
 
-📁 Aqui no meu GitHub, você vai encontrar diversos projetos, desde aplicações criadas para praticar conceitos fundamentais até projetos mais completos que demonstram meu crescimento e dedicação na área de desenvolvimento de software. Cada repositório representa um passo na minha jornada como desenvolvedor Back-End.
+📁 Aqui no meu GitHub, compartilho projetos desenvolvidos durante minha jornada de aprendizado, desde exercícios práticos até aplicações mais completas, que demonstram minha evolução, dedicação e interesse pelo desenvolvimento de software.
 
-🌱 "Grandes desenvolvedores não nascem prontos; eles são construídos linha de código por linha de código."
+🌱 Acredito que a evolução na programação acontece todos os dias, com aprendizado contínuo, prática e dedicação. Cada linha de código é uma oportunidade de melhorar."
 
 ##
 
