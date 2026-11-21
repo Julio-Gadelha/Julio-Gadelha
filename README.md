@@ -80,7 +80,7 @@ Sistema para cadastro de produtos com cálculo automático de imposto por catego
 ### ⚙️ Frameworks
 
 ![JavaFX](https://img.shields.io/badge/-JavaFX-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot%20(aprendendo)-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot%20-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <br/>
