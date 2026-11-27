@@ -32,21 +32,6 @@
 
 ##
 
-### 🚀 Projetos em destaque
-
-**💰 FinTrack**
-Aplicação desktop em Java com interface gráfica em JavaFX e persistência de dados em SQLite, estruturada com Programação Orientada a Objetos.
-`Java` `JavaFX` `SQLite` `POO` · [Ver no portfólio](https://julio-gadelha.github.io/Portifolio-JulioGabriel/)
-
-**📚 Sistema de Gerenciamento de Biblioteca**
-Sistema em Java para controle de acervo, com cadastro de livros físicos e digitais, consulta de disponibilidade e menu interativo via terminal. Usa hierarquia de classes e interfaces para funcionalidades específicas por tipo de livro.
-`Java` `POO` · [Ver repositório](https://github.com/Julio-Gadelha/SistemaDeGerenciamentoDeBiblioteca)
-
-**🛒 Sistema de Caixa para Supermercado**
-Sistema para cadastro de produtos com cálculo automático de imposto por categoria, incluindo tratamento de exceções para validação dos dados de entrada.
-`Java` `POO` · [Ver repositório](https://github.com/Julio-Gadelha/SistemaCaixaSupermercado)
-
-##
 
 ### 💻 IDE
 
